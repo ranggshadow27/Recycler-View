@@ -15,7 +15,6 @@ private  val itemClick : OnClickListener)
                     : RecyclerView.Adapter<AdapterTeamBola.ViewHolder>()
 
 {
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val binding = ListItemPemainBinding.inflate(LayoutInflater.from(parent.context),parent, false)
         return ViewHolder(binding)
@@ -42,6 +41,4 @@ private  val itemClick : OnClickListener)
     interface OnClickListener {
         fun detailData(item : Pemain?)
     }
-
-
 }

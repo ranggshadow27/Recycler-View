@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.2391304347826087" />
-        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.2391304347826087" />
-        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/list_item_pemain.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/activity_splash_screen.xml" value="0.27943840579710144" />
+        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/rangg/StudioProjects/RecyclerView/app/src/main/res/layout/list_item_pemain.xml" value="0.1" />
       </map>
     </option>
   </component>
